@@ -1,0 +1,12 @@
+somepackage/OtherClass.java
+ somepackage.OtherClass
+SomeClass.java
+ SomeClass
+common/IntArrayExtensions.java
+ common.IntArrayExtensions
+app/IntArrayExtensionsApp.java
+ app.IntArrayExtensionsApp
+app/StringExtensionsApp.java
+ app.StringExtensionsApp
+common/StringExtensions.java
+ common.StringExtensions
